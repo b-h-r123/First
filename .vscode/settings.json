@@ -1,0 +1,16 @@
+{
+  "background.editor": {
+    "useFront": true,
+    "style": {
+      "background-position": "center",
+      "background-size": "1920*1080",
+      "opacity": 0.1
+    },
+    "styles": [{}, {}, {}],
+    "images": [
+      "E:\\background\\A space oddysey.jpg"
+    ],
+    "interval": 0,
+    "random": false
+  }
+}
